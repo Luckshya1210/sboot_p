@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+#logging:
+#  level:
+#    net:
+#      example:
+#        demo: INFO
+
+
+#//root : ERROR/OFF
+
